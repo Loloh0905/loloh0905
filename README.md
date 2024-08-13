@@ -2,7 +2,7 @@
 
 Meu nome é Lorena Zaparolli
 
--Eu estou estudando no [Alura](https://www.alura.gov.br)
+- Eu estou estudando no [Alura](https://www.alura.gov.br)
 
 - Estou me desenvolvendo na linguagem JavaScript
 
